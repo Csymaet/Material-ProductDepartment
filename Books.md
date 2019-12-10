@@ -4,10 +4,12 @@
 
 * `Unity3D人工智能编程精粹` 王洪源
   > [链接](https://pan.baidu.com/s/1o70mRVphj8Y1lJRxzPIi2Q) 提取码: mec8
+* `Game AI Pro 1-3` 一共三本，应该有中文版，不过没找到
+  > [链接](https://pan.baidu.com/s/1o70mRVphj8Y1lJRxzPIi2Q) 提取码: mec8
 
 ## Shader
 
-* `UnityShader入门精要` 冯乐乐
+* `Unity Shader入门精要` 冯乐乐
   > [链接](https://pan.baidu.com/s/1o70mRVphj8Y1lJRxzPIi2Q) 提取码: mec8
 * `real-time-rendering3rd(英文版)`
   > [链接](https://pan.baidu.com/s/1o70mRVphj8Y1lJRxzPIi2Q) 提取码: mec8
